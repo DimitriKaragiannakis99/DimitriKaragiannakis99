@@ -8,5 +8,6 @@ When I’m not coding, you can probably find me rolling on the mats practicing s
 
 - 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/dimitrikaragiannakis/)  
 - 📧 Email: [dkaragiannakis99@gmail.com](mailto:dkaragiannakis99@gmail.com)
+- 👨‍💻Portfolio: [dk-portfolio](https://dk-portfolio-dimitri-karagiannakis-projects.vercel.app/)
 
 Thanks for stopping by! If you can't find me, try ```~/.config/bjj``` 🤼
